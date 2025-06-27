@@ -52,8 +52,7 @@ The analysis answers questions like:
 
 ### 🔧 Clone the Repository
 ```bash
-git clone https://github.com/your-username/google-play-store-analytics.git
-cd google-play-store-analytics
+(https://github.com/KumarShailesh07/Google-Play-Store-Data-Analytics/tree/main)
 
 📦 Install Dependencies
 pip install -r requirements.txt
